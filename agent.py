@@ -1,0 +1,1 @@
+print("First step to Big Tech")
